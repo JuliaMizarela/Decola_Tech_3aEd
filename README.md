@@ -7,6 +7,7 @@ Demo-repo, requisito parcial para conclusão do [Decola Tech Bootcamp](https://w
 - Markdown
 - GIT CLI basic commands
 - GitHub (on browser) basic commands
+- GitHub CLI basic commands
 
 ## Connections
 
