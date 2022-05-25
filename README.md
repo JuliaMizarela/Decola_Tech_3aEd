@@ -1,6 +1,6 @@
 # GitHub Challenge: Decola Tech 3ª Edição
 
-Demo-repo, requisito parcial para conclusão do [Decola Tech Bootcamp](https://www.dio.me/bootcamp/decola-tech-3a-edicao) da plataforma Digital Inovation One (**DIO**), oferecido pela [Avanade](https://www.avanade.com/). O Bootcamp foca em desenvolvimento de __Mobile Apps__.
+Demo-repo, requisito parcial para conclusão do [Decola Tech Bootcamp](https://www.dio.me/bootcamp/decola-tech-3a-edicao) da plataforma Digital Innovation One (**DIO**), oferecido pela [Avanade](https://www.avanade.com/). O Bootcamp foca em desenvolvimento de __Mobile Apps__.
 
 
 ## Tech stack (for this repo)
